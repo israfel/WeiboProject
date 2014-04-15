@@ -1,0 +1,12 @@
+.header-logo {
+    float: left;
+}
+
+.header-actions {
+    float: right;
+}
+
+.command-bar {
+    position: relative;
+    float: left;
+}
